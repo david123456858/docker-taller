@@ -10,6 +10,7 @@ paso 2 -> Luego de descargar la imagen debes montar el contenedor con el docker 
 
 > [!TIP]
 > ejemplo de como se puede ejecutar para montar el contenedor docker run -d --name jdavid -p 8000:8000 jdavidperalta/jdavidperalta
+
 > [!IMPORTANT]
 > si colocar en el -p 8000:8000 debes ingresar en el localhost:(puerto de la izquieda)
 
