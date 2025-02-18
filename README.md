@@ -1,8 +1,10 @@
 ## Pasos a seguir
 >[!IMPORTANT]
 >DEBES PRIMERO INGRESAR A TU CUENTA DESDE LA TERMINAl PARA DESCARGAR LA IMAGEN CON docker login
+
 paso 1 -> descargar la imagen de docker con el comando docker pull jdavidperalta/jdavidperalta:latest
 paso 2 -> Luego de descargar la imagen debes montar el contenedor con el docker run correspodiente
+
 > [!NOTE]
 > El puerto de el contenedor es el 8000
 
