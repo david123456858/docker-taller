@@ -1,6 +1,8 @@
 ## Pasos a seguir
 >[!IMPORTANT]
->DEBES PRIMERO INGRESAR A TU CUENTA DESDE LA TERMINAl PARA DESCARGAR LA IMAGEN CON docker login
+>DEBES PRIMERO INGRESAR A TU CUENTA DESDE LA TERMINAl PARA DESCARGAR LA IMAGEN CON EL SIGUIENTE COMANDO
+```bash
+docker login```
 
 paso 1 -> descargar la imagen de docker con el comando docker pull jdavidperalta/jdavidperalta:latest
 
