@@ -10,7 +10,7 @@ paso 2 -> Luego de descargar la imagen debes montar el contenedor con el docker 
 > El puerto de el contenedor es el 8000
 
 > [!TIP]
-> ejemplo de como se puede ejecutar para montar el contenedor docker run -d --name nombre-de-imagen -p (puerto del hosto):8000 jdavidperalta/jdavidperalta
+>como se puede ejecutar para montar el contenedor docker run -d --name nombre-de-imagen -p (puerto del hosto):8000 jdavidperalta/jdavidperalta
 
 > [!IMPORTANT]
 > si colocar en el -p 8000:8000 debes ingresar en el localhost:(puerto de la izquieda)
